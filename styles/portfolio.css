@@ -129,7 +129,7 @@ h4 {
   transition: all 150ms ease-in-out;
 }
 .link:hover {
-  color: white;
+  color: var(--secondary-color)
   text-decoration: underline;
 }
 h5 {
