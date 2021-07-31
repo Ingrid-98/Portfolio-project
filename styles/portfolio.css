@@ -23,6 +23,8 @@ h1 {
 }
 h3 {
   padding: 10px 20px;
+  font-style: italic;
+  color: var(--branding-color);
 }
 p {
   font-weight: normal;
