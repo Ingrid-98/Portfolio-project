@@ -100,12 +100,18 @@ h4 {
 .project {
   border-radius: 10px;
 }
-.blog {
-  color: var(--secondary-color);
+.link {
+  color: var(--branding-color);
   text-decoration: none;
   transition: all 150ms ease-in-out;
 }
-.blog:hover {
-  color: var(--branding-color);
+.link:hover {
+  color: white;
   text-decoration: underline;
+}
+h5 {
+  font-size: 25px;
+  font-family: var(--default-font-family);
+  margin-top: 25px;
+  color: black;
 }
